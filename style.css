@@ -1,0 +1,24 @@
+/*this is  my css page for styling my web pages*/
+/*this is to style navigation on my web pages
+most of reserves space for when /if the screen is smaller than on desktop*/
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+memeimage2{
+    margin-right: 200px;
+}
+memeimage{
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
+}
